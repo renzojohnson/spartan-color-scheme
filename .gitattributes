@@ -1,0 +1,5 @@
+# Exclude non-package files from release archives
+preview.png export-ignore
+README.md export-ignore
+LICENSE export-ignore
+.gitattributes export-ignore
