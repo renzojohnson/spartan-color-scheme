@@ -2,3 +2,6 @@
 preview.png export-ignore
 README.md export-ignore
 .gitattributes export-ignore
+.editorconfig export-ignore
+.github/ export-ignore
+screenshots/ export-ignore
